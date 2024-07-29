@@ -1,0 +1,16 @@
+{
+  "driversLeaderboard": [
+    {"position": 1, "name": "Max Verstappen", "points": 170},
+    {"position": 2, "name": "Lewis Hamilton", "points": 155},
+    {"position": 3, "name": "Sergio Perez", "points": 139},
+    {"position": 4, "name": "Charles Leclerc", "points": 132},
+    {"position": 5, "name": "Carlos Sainz", "points": 117}
+  ],
+  "constructorsLeaderboard": [
+    {"position": 1, "name": "Red Bull Racing", "points": 309},
+    {"position": 2, "name": "Mercedes", "points": 260},
+    {"position": 3, "name": "Ferrari", "points": 249},
+    {"position": 4, "name": "McLaren", "points": 143},
+    {"position": 5, "name": "Alpine", "points": 123}
+  ]
+}
