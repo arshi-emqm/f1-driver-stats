@@ -1,0 +1,39 @@
+{
+  "driversChampionship": [
+    {"position": 1, "name": "Max Verstappen", "points": 170},
+    {"position": 2, "name": "Lewis Hamilton", "points": 155},
+    {"position": 3, "name": "Sergio Perez", "points": 139},
+    {"position": 4, "name": "Charles Leclerc", "points": 132},
+    {"position": 5, "name": "Carlos Sainz", "points": 117},
+    {"position": 6, "name": "George Russell", "points": 105},
+    {"position": 7, "name": "Lando Norris", "points": 88},
+    {"position": 8, "name": "Fernando Alonso", "points": 74},
+    {"position": 9, "name": "Pierre Gasly", "points": 61},
+    {"position": 10, "name": "Daniel Ricciardo", "points": 55},
+    {"position": 11, "name": "Esteban Ocon", "points": 49},
+    {"position": 12, "name": "Sebastian Vettel", "points": 42},
+    {"position": 13, "name": "Lance Stroll", "points": 36},
+    {"position": 14, "name": "Yuki Tsunoda", "points": 29},
+    {"position": 15, "name": "Valtteri Bottas", "points": 23},
+    {"position": 16, "name": "Guanyu Zhou", "points": 18},
+    {"position": 17, "name": "Mick Schumacher", "points": 12},
+    {"position": 18, "name": "Alexander Albon", "points": 7},
+    {"position": 19, "name": "Kevin Magnussen", "points": 5},
+    {"position": 20, "name": "Nicholas Latifi", "points": 2},
+    {"position": 21, "name": "Nico Hulkenberg", "points": 0},
+    {"position": 22, "name": "Nyck de Vries", "points": 0}
+  ],
+  "constructorsChampionship": [
+    {"position": 1, "name": "Red Bull Racing", "points": 309},
+    {"position": 2, "name": "Mercedes", "points": 260},
+    {"position": 3, "name": "Ferrari", "points": 249},
+    {"position": 4, "name": "McLaren", "points": 143},
+    {"position": 5, "name": "Alpine", "points": 123},
+    {"position": 6, "name": "AlphaTauri", "points": 90},
+    {"position": 7, "name": "Aston Martin", "points": 78},
+    {"position": 8, "name": "Alfa Romeo", "points": 41},
+    {"position": 9, "name": "Haas F1 Team", "points": 17},
+    {"position": 10, "name": "Williams", "points": 9},
+    {"position": 11, "name": "Racing Point", "points": 0}
+  ]
+}
