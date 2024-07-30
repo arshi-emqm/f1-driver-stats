@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Ferrari",
+        "rank": 1,
+        "points": 150
+    },
+    {
+        "name": "Mercedes",
+        "rank": 2,
+        "points": 140
+    }
+]
